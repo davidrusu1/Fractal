@@ -2,7 +2,7 @@ import turtle
 plus=turtle.Turtle() #plus reprezinta turtle
 plus.speed(10)
 plus.getscreen().bgcolor("black")
-plus.color("blue")
+plus.color("yellow")
 plus.hideturtle()
 plus.penup()
 plus.goto(-200,50)
